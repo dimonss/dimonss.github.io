@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4102ce1a.css",
-    "main.js": "/static/js/main.43aa9c6b.js",
+    "main.css": "/static/css/main.420d2c4f.css",
+    "main.js": "/static/js/main.dcb27c7c.js",
     "static/media/bg.png": "/static/media/bg.0ba2d98aa4851f8fd1f1.png",
     "static/media/bottles.png": "/static/media/bottles.55f2999f364bd2ddd90a.png",
     "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
@@ -27,18 +27,18 @@
     "static/media/whatsapp_ic.svg": "/static/media/whatsapp_ic.be3546a1fa3f8e14042e0c0fdf1ddbcc.svg",
     "static/media/Icon_Search.svg": "/static/media/Icon_Search.b176dba70667308a7c678e353d278a7d.svg",
     "static/media/Instagram.svg": "/static/media/Instagram.a275ad56c52efe3f599dd9c9f947842d.svg",
-    "static/media/store_basket.svg": "/static/media/store_basket.2b0f7557861be2da64e31947cf823bb7.svg",
+    "static/media/store_basket.svg": "/static/media/store_basket.b3b86a5278027d6ee75505f7be88a627.svg",
     "static/media/telegram_ic.svg": "/static/media/telegram_ic.83c3c733ee5c02265f1e52b584f65a0e.svg",
     "static/media/Facebook.svg": "/static/media/Facebook.5f56df3b3092c1308031c6f03c7b4edf.svg",
     "index.html": "/index.html",
     "static/media/Icon_Arrow.svg": "/static/media/Icon_Arrow.d97a37eeb73cd37820968c688dd3b65e.svg",
     "static/media/star.svg": "/static/media/star.e6f5765ae7e6ebef151db974ed91ec39.svg",
     "static/media/Icon_Menu.svg": "/static/media/Icon_Menu.496c09ee3a35deff89f949d398f21406.svg",
-    "main.4102ce1a.css.map": "/static/css/main.4102ce1a.css.map",
-    "main.43aa9c6b.js.map": "/static/js/main.43aa9c6b.js.map"
+    "main.420d2c4f.css.map": "/static/css/main.420d2c4f.css.map",
+    "main.dcb27c7c.js.map": "/static/js/main.dcb27c7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4102ce1a.css",
-    "static/js/main.43aa9c6b.js"
+    "static/css/main.420d2c4f.css",
+    "static/js/main.dcb27c7c.js"
   ]
 }
