@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b205068c.css",
-    "main.js": "/static/js/main.521536c8.js",
-    "static/media/I.jpg": "/static/media/I.050aaf935f540b138ccc.jpg",
-    "static/media/BeeLine_logo.png": "/static/media/BeeLine_logo.6db198d407688fe48d0f.png",
-    "static/media/mbank_logo.png": "/static/media/mbank_logo.5fb62d159a7bbf5cc3a3.png",
-    "static/media/KGUSTA.png": "/static/media/KGUSTA.7dcee57363e458f6dc13.png",
-    "index.html": "/index.html",
-    "main.b205068c.css.map": "/static/css/main.b205068c.css.map",
-    "main.521536c8.js.map": "/static/js/main.521536c8.js.map"
+    "main.css": "/cv/static/css/main.9817a0fa.css",
+    "main.js": "/cv/static/js/main.6cb2a5d2.js",
+    "static/media/I.jpg": "/cv/static/media/I.050aaf935f540b138ccc.jpg",
+    "static/media/BeeLine_logo.png": "/cv/static/media/BeeLine_logo.6db198d407688fe48d0f.png",
+    "static/media/mbank_logo.png": "/cv/static/media/mbank_logo.5fb62d159a7bbf5cc3a3.png",
+    "static/media/KGUSTA.png": "/cv/static/media/KGUSTA.7dcee57363e458f6dc13.png",
+    "index.html": "/cv/index.html"
   },
   "entrypoints": [
-    "static/css/main.b205068c.css",
-    "static/js/main.521536c8.js"
+    "static/css/main.9817a0fa.css",
+    "static/js/main.6cb2a5d2.js"
   ]
 }
